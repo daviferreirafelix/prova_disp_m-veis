@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CafeteriaSeuMadruga</string>
+    <string name="nome_cafeteria">CAFETERIA DO SEU MADRUGA</string>
+    <string name="content_description">Logotipo</string>
+    <string name="informacoes">INFORMAÇÕES DA BEBIDA</string>
+</resources>
